@@ -1,1 +1,1 @@
-http://localhost/dbernal846.wixsite.com
+https://dbernal846.wixsite.com/my-site
